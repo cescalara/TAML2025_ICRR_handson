@@ -1,1 +1,1 @@
-./cnn/data*
+cnn/data/**
