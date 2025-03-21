@@ -1,0 +1,4 @@
+day2/cnn_classification/data/
+**/__pycache__
+*.ipynb_checkpoints
+*.egg-info
