@@ -1,4 +1,4 @@
-# TAML2025_ICRR_handson
+# Machine learning course held at the *Workshop for accelerating multi-messenger astronomy using air shower observations* at ICRR, UTokyo
 
 **We recommend to use the pre-installed environment on our GPU accelerated jupyterlab nodes that we provide during the course. In that case, there is no need to setup any software on your computers.**
 
