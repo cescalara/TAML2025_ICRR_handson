@@ -1,0 +1,30 @@
+name: taml2025env
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python=3.12
+  - conda==25.3.0
+  - setuptools
+  - pip
+  - wheel
+  - conda-anaconda-telemetry
+  - conda-anaconda-tos[version='>=0.1.2']
+  - conda-content-trust
+  - conda-libmamba-solver
+  - menuinst
+  - anaconda-anon-usage
+  - pytorch-cuda=12.1
+  - pytorch==2.4.1
+  - torchaudio==2.4.1
+  - pyg
+  - torchvision==0.19.1
+  - matplotlib
+  - ipython
+  - jupyter
+  - h5py
+  - arviz
+  - scikit-learn
+  - optuna
+  - cmdstanpy
+prefix: /opt/miniconda3
